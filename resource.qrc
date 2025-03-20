@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="format">
+    <file>format_align_center.png</file>
+    <file>format_align_left.png</file>
+    <file>format_align_right.png</file>
+    <file>format_bold.png</file>
+    <file>format_color_text.png</file>
+    <file>format_italic.png</file>
+    <file>format_list_bulleted.png</file>
+    <file>format_list_numbered.png</file>
+    <file>format_strikethrough.png</file>
+    <file>format_underlined.png</file>
+  </qresource>
+</RCC>
